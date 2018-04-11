@@ -1,0 +1,9 @@
+main: ru.Ar4ikov.OnlineGUI
+name: OnlineGUI
+description: Привет!
+author: Ar4ikov
+version: 1.0.0
+commands:
+  players:
+    description: show online players
+    usage: /<command>
